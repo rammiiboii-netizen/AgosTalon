@@ -1,0 +1,6 @@
+{
+  "name": "AegisDrain Talon Dos — Smart Drainage & Flood-Risk Monitoring System",
+  "description": "Intelligent drainage monitoring and geospatial flood-risk visualization platform for Talon Dos, Las Piñas City. ESP32 IoT telemetry, real-time ultrasonic water-level detection, and authorized CENRO response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
